@@ -28,7 +28,7 @@ Make sure you have Node.js and npm installed on your machine.
     git clone https://github.com/Satya2553/Alippo-Assignment
     ```
 
-3. Install dependencies:
+2. Install dependencies:
 
     ```bash
     npm install
@@ -36,7 +36,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 ### Usage
 
-4. Run the application:
+3. Run the application:
 
     ```bash
     npm start
@@ -44,7 +44,7 @@ Make sure you have Node.js and npm installed on your machine.
 
     This will start the development server. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
-5. Explore the table:
+4. Explore the table:
 
     - View the table with data fetched from the API.
     - Click the "Edit" button to edit entries in the first column.
